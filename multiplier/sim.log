@@ -1,0 +1,6 @@
+VCD info: dumpfile multiplier_wave.vcd opened for output.
+D = 1 | H = 0 | O = 0 | Q = 0 | In1 = 00000064 | In2 = 00000014 | Out = 000007d0
+D = 0 | H = 1 | O = 0 | Q = 0 | In1 = 00020003 | In2 = 00040005 | Out = 0008000f
+D = 0 | H = 0 | O = 1 | Q = 0 | In1 = 01020304 | In2 = 02020202 | Out = 02040608
+D = 0 | H = 0 | O = 0 | Q = 1 | In1 = 11111111 | In2 = 22222222 | Out = 22222222
+multiplier_tb.v:50: $finish called at 40 (1s)

@@ -1,0 +1,72 @@
+$date
+	Sun Jun 21 20:06:27 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module multiplier_tb $end
+$var wire 32 ! out [31:0] $end
+$var reg 1 " D $end
+$var reg 1 # H $end
+$var reg 1 $ O $end
+$var reg 1 % Q $end
+$var reg 32 & in1 [31:0] $end
+$var reg 32 ' in2 [31:0] $end
+$scope module uut $end
+$var wire 1 " D $end
+$var wire 1 # H $end
+$var wire 1 $ O $end
+$var wire 1 % Q $end
+$var wire 32 ( in1 [31:0] $end
+$var wire 32 ) in2 [31:0] $end
+$var reg 32 * out [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b11111010000 *
+b10100 )
+b1100100 (
+b10100 '
+b1100100 &
+0%
+0$
+0#
+1"
+b11111010000 !
+$end
+#10
+b10000000000000001111 !
+b10000000000000001111 *
+b1000000000000000101 '
+b1000000000000000101 )
+b100000000000000011 &
+b100000000000000011 (
+1#
+0"
+#20
+b10000001000000011000001000 !
+b10000001000000011000001000 *
+b10000000100000001000000010 '
+b10000000100000001000000010 )
+b1000000100000001100000100 &
+b1000000100000001100000100 (
+1$
+0#
+#30
+b100010001000100010001000100010 !
+b100010001000100010001000100010 *
+b100010001000100010001000100010 '
+b100010001000100010001000100010 )
+b10001000100010001000100010001 &
+b10001000100010001000100010001 (
+1%
+0$
+#40
