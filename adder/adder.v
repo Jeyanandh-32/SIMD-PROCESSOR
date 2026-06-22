@@ -2,11 +2,11 @@ module adder (
     input [31:0] A,
     input [31:0] B,
     input sub,
-    output [31:0] Out,
     input D,
     input H,
     input O,
-    input Q
+    input Q,
+    output [31:0] Out
 );
 
     wire [31:0] B_Real = sub ? ~B : B;
